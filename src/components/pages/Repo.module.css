@@ -1,0 +1,27 @@
+.repo {
+  display: flex;
+}
+
+.repo .buttons {
+  display: flex;
+}
+
+.repo .link {
+  margin-right: 10px;
+}
+
+.repo .button {
+  margin: 0 auto;
+}
+
+.repo .left {
+  width: 50%;
+  padding-top: 20%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.repo .right {
+  width: 50%;
+  margin: 0 auto;
+}

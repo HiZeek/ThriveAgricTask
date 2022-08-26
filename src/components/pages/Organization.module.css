@@ -1,0 +1,27 @@
+.organization {
+  display: flex;
+}
+
+.organization .buttons {
+  display: flex;
+}
+
+.organization .link {
+  margin-right: 10px;
+}
+
+.organization .button {
+  margin: 0 auto;
+}
+
+.organization .left {
+  width: 50%;
+  padding-top: 20%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.organization .right {
+  width: 50%;
+  margin: 0 auto;
+}
